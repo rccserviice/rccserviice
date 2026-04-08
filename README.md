@@ -9,13 +9,13 @@
 ### About Me
 - Working on **<a href="https://bloxxia.de" target="_blank">Bloxxia</a>** — an **OG Roblox Revival Project**
 - Currently learning **C#**
-- Passionate about backend systems, Roblox infrastructure, and revival technology
-- I break things on purpose so I understand how to rebuild them better
+- Passionate about backend systems, Roblox revival tech
+- I break things on purpose so I understand how to rebuild them better 😪
 
 ---
 
 ### What is Bloxxia?
-**Bloxxia** is a classic Roblox revival project focused on recreating the **2016,2018 and 2020 Roblox experience** while maintaining stability, performance, and modern backend structure.  
+**Bloxxia** is a classic Roblox revival project focused on 2018 site design. And clients from 2017 to 2021
 
 Think of it as:
 - Old Roblox
